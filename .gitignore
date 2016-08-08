@@ -1,0 +1,11 @@
+*.iml
+advanced-analytics/.idea/
+advanced-analytics/target/*
+advanced-analytics/*.iml
+advanced-analytics/*.idea/*
+advanced-analytics/.idea/*
+.DS_Store
+.Rhistory
+linkage/
+profiledata_06-May-2005/
+rrrr/data
